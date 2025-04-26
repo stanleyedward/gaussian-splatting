@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "format": "cpp",
+        "memory_resource": "cpp",
+        "regex": "cpp"
+    }
+}
