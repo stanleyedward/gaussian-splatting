@@ -15,6 +15,7 @@ sudo pacman -S \
   ffmpeg \
   eigen \
   libxxf86vm \
-  embree
+  embree \ 
+  lib32-glm
 
 pip install --no-build-isolation submodules/simple-knn submodules/diff-gaussian-rasterization submodules/fused_ssim
